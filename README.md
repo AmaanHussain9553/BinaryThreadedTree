@@ -1,5 +1,5 @@
 # BinaryThreadedTree
-Header File for Binary Search Tree that is threaded so that when the tree is printed using inorder traversal, the elements are printed from ascending to descending
+Header File for Binary Search Tree that is threaded so that when the tree is printed using inorder traversal, the elements are printed from ascending to descending order
 
 This header file is create an instance of the binary threaded tree with the following implementations
   
